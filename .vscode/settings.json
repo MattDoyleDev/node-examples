@@ -1,5 +1,6 @@
 {
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.cursorWidth": 3,
-    "editor.cursorSmoothCaretAnimation": true
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.minimap.maxColumn": 40
 }
